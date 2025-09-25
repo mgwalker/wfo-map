@@ -1,3 +1,7 @@
 docs/fire-zones.geojson filter=lfs diff=lfs merge=lfs -text
 docs/forecast-zones.geojson filter=lfs diff=lfs merge=lfs -text
 docs/wfos.geojson filter=lfs diff=lfs merge=lfs -text
+docs/marine-coastal-zones.geojson filter=lfs diff=lfs merge=lfs -text
+docs/marine-offshore-zones.geojson filter=lfs diff=lfs merge=lfs -text
+docs/states.geojson filter=lfs diff=lfs merge=lfs -text
+docs/counties.geojson filter=lfs diff=lfs merge=lfs -text
